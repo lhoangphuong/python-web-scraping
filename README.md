@@ -4,7 +4,7 @@
 ## Description
 - Input a website url
 - See the number of tables in the website
-- Choose to table to convert to csv + html
+- Choose table to convert to csv + html
 - Display the table on browser
 
 ## Installation
